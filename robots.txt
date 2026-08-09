@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: minimalnyy-depozit-s-bonusom.github.io
+Sitemap: https://minimalnyy-depozit-s-bonusom.github.io/sitemap.xml
